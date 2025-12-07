@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "project_name": "Once Upon a Time (P-실무)",
+        "version": "v1.0_GPT-SoVITS",
+        "created_at": "2025-12-07 12:55:59",
+        "model_type": "gpt_sovits_v2",
+        "total_segments": 9
+    },
+    "story_info": {
+        "title": "동대문에서 찾은 특별한 한복",
+        "target_age": "All",
+        "theme": "General"
+    },
+    "script": [
+        {
+            "seq": 1,
+            "role": "narrator",
+            "text": "높은 빌딩이 숲을 이루고 우리가 살고 있는 바로 지금, 서울의 동대문 시장은 여전히 전통과 현대가 어우러져 살아 숨 쉬는 곳이랍니다. 어느 맑은 날, 호기심 많고 공주 옷을 좋아하는 유민이는 엄마를 따라 동대문 시장에 갔어요. 유민이의 엄마는 그곳에서 아름다운 한복 가게를 운영하고 있었지요.",
+            "emotion": "neutral",
+            "audio_file_name": "001_narrator.wav"
+        },
+        {
+            "seq": 2,
+            "role": "narrator",
+            "text": "가게 안에는 형형색색의 한복들이 줄지어 걸려 있었고, 유민이의 눈은 반짝였어요. “엄마, 나도 저 공주님 같은 한복 입어보고 싶어요!” 유민이는 한복을 보며 설레는 마음을 감출 수 없었답니다.",
+            "emotion": "neutral",
+            "audio_file_name": "002_narrator.wav"
+        },
+        {
+            "seq": 3,
+            "role": "narrator",
+            "text": "엄마는 살며시 웃으며 유민이의 손을 잡고 가게 구석에 있는 작은 상자 하나를 열어 주었어요. 그 안에는 반짝이는 전통 장신구들이 가득했는데, 그중에서도 신비한 빛을 내뿜는 비녀가 있었어요. “이 비녀는 특별하단다,” 엄마는 속삭이듯 말했어요. “이걸 꽂으면 놀라운 일이 일어날지도 몰라.”",
+            "emotion": "neutral",
+            "audio_file_name": "003_narrator.wav"
+        },
+        {
+            "seq": 4,
+            "role": "narrator",
+            "text": "유민이는 비녀를 머리에 꽂아 보았어요. 그러자 마법같이 주변의 한복들이 하나씩 유민이의 몸에 맞게 변하기 시작했어요. 유민이는 마치 옛날로 돌아간 것처럼, 다양한 전통 한복을 입고 거울 앞을 돌아다니며 행복해했답니다. 한복마다 다른 색과 무늬가 유민이를 더욱 특별하게 만들어 주었어요.",
+            "emotion": "neutral",
+            "audio_file_name": "004_narrator.wav"
+        },
+        {
+            "seq": 5,
+            "role": "narrator",
+            "text": "그때, 시장의 상인 한 분이 다가와 말을 걸었어요. “어머, 참 잘 어울리네! 이 한복은 옛날에 우리 조상들이 특별한 날에 입던 옷이란다. 전통을 통해 우리는 많은 이야기를 배우고, 또 우리 자신을 더 잘 알 수 있지.”",
+            "emotion": "neutral",
+            "audio_file_name": "005_narrator.wav"
+        },
+        {
+            "seq": 6,
+            "role": "narrator",
+            "text": "유민이는 상인의 이야기와 함께 전통의 아름다움을 느꼈어요. “전통은 우리를 특별하게 만들어 주는 거군요!” 유민이는 상인에게 감사의 인사를 전하며, 더욱 자신만의 개성을 찾고 싶어졌어요.",
+            "emotion": "neutral",
+            "audio_file_name": "006_narrator.wav"
+        },
+        {
+            "seq": 7,
+            "role": "narrator",
+            "text": "마침내, 유민이는 한복을 벗고 엄마 곁으로 돌아왔어요. 비녀를 다시 상자에 넣으며 유민이는 엄마에게 말했답니다. “엄마, 전통이 참 소중하다는 걸 알게 됐어요. 저도 제 개성과 전통을 함께 소중히 여길래요.”",
+            "emotion": "neutral",
+            "audio_file_name": "007_narrator.wav"
+        },
+        {
+            "seq": 8,
+            "role": "narrator",
+            "text": "엄마는 그런 유민이를 따뜻하게 안아주며, “그래, 유민아. 전통과 개성을 소중히 여기는 마음이 네가 더 특별해지는 길이란다.” 하고 속삭였어요.",
+            "emotion": "neutral",
+            "audio_file_name": "008_narrator.wav"
+        },
+        {
+            "seq": 9,
+            "role": "narrator",
+            "text": "그날 이후로 유민이는 자주 엄마의 한복 가게를 찾아가고, 동대문 시장의 상인들과 이야기를 나누며 전통과 개성에 대해 더 깊이 생각하게 되었답니다. 그렇게 유민이는 자신만의 특별함을 찾아가며, 전통의 아름다움을 사랑하게 되었어요.",
+            "emotion": "neutral",
+            "audio_file_name": "009_narrator.wav"
+        }
+    ]
+}
